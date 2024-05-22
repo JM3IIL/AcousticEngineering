@@ -60,3 +60,21 @@ http://www.takuichi.net/hobby/edu/sonic_wave/musical_scale/doc_html/musical_scal
 |D#10|Re|嬰ニ|-|-|19912.127|Compact Disc Digital Audio上限|
 |..|..|..|-|-|..||
 |A10|La|イ|-|-|28160.0||
+
+
+# 可聴周波数
+人の可聴周波数20〜20,000Hz
+人の聴覚がよく反応する 4,000Hz
+https://www.asahiglassplaza.net/knowledge/rg_knowledge/vol08/
+https://www.google.com/amp/s/music.a-miya.jp/koe-hz/
+
+## 声の周波数
+100〜1000Hz
+男 : 120〜200Hz
+女 : 200〜300Hz
+
+#
+
+
+
+
